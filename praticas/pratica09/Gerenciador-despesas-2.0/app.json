@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Gerenciador de Despesas 2.0",
+    "slug": "gerenciador-despesas-2-0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-font",
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
