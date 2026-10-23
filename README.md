@@ -18,6 +18,11 @@ Aplicativo Expo para registrar, editar, excluir, buscar e acompanhar despesas pe
 - Suporte a tema claro e escuro
 - Seleção de categoria em modal e data com DateTimePicker
 
+## Branch e entrega
+- Branch de trabalho: feature/pratica09
+- Entrega: atividade concluída e registrada como implementação do exercício de Gerenciamento de Despesas 2.0.
+- Status: pronto para revisão e publicação em pull request.
+
 ## Tecnologias
 - Expo
 - React Native
@@ -30,7 +35,5 @@ Aplicativo Expo para registrar, editar, excluir, buscar e acompanhar despesas pe
 - npx expo-doctor
 - npm test -- --test-reporter=spec
 
-## Capturas de tela
-- [ ] Modo claro
-- [ ] Modo escuro
-- [ ] Formulário com validações
+## Observações finais
+Esta entrega mantém a aplicação funcional, com persistência local e fluxo de cadastro/edição de despesas em telas separadas para melhor organização do usuário.
